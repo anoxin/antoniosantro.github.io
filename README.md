@@ -1,3 +1,3 @@
 
 # Анохин Антон
-[Урок 12](antoniosantro.github.io/first/)
+[Урок 12](https://antoniosantro.github.io/first/)
