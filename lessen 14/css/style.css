@@ -1,0 +1,55 @@
+
+@font-face {
+    font-family: 'Bebas Neue';
+    src: url('../bedas/BebasNeueBold.eot');
+    src: url('../bedas/BebasNeueBold.eot?#iefix') format('embedded-opentype'),
+         url('../bedas/BebasNeueBold.woff2') format('woff2'),
+         url('../bedas/BebasNeueBold.woff') format('woff'),
+         url('../bedas/BebasNeueBold.ttf') format('truetype'),
+         url('../bedas/BebasNeueBold.svg#BebasNeueBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: local('Lato Hairline Italic'), local('Lato-HairlineItalic'),
+    url('../bedas/latohairlineitalic.woff2') format('woff2'), 
+    url('../bedas/latohairlineitalic.woff') format('woff'), 
+    url('../bedas/latohairlineitalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+.text-box{
+	padding-top: 2rem;
+}
+.result {
+	margin-bottom: 0;
+	margin-top: 3rem;
+}
+.fonts {
+	font-size: 2rem;
+	text-align: center;
+	padding: 2rem;
+}
+small {
+	font-size: 1.3rem;
+}
+
+.schrift1 {
+	font-family: 'Open Sans', sans-serif;
+}
+
+.schrift2 {
+	font-family: 'Bebas Neue';
+}
+
+.schrift3 {
+	font-family: 'Lato';
+}
+
+
+.schrift4 {
+	font-family: 'Lobster', cursive;
+}
