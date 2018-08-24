@@ -172,7 +172,7 @@ section {
     text-align: center;
   }
 }
-@media (max-width: 991px) {
+@media (max-width: 770px) {
   .main {
     background-position: left;
   }
@@ -182,4 +182,6 @@ section {
   .wrap-block {
     text-align: center;
   }
+  .main-content h1 {
+  font-size: 3rem;
 }
