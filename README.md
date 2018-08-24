@@ -7,4 +7,4 @@
 [Урок 16](https://antoniosantro.github.io/lessen%2016/)
 [Практика 1](https://antoniosantro.github.io/praktik%201/src/)
 [Практика 2](https://antoniosantro.github.io/praktik%202/src/)
-[Практика 3]()
+[Практика 3](https://antoniosantro.github.io/praktik%203/src/)
