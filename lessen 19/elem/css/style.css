@@ -1,0 +1,32 @@
+/* Ключевые кадры анимации */
+@keyframes move {
+  /* Первый кадр */
+  from {
+    margin-left: 0;
+    background-color: red;
+  }
+  /* Промежуточный кадр */
+  10% {
+    margin-left: 20px;
+  }
+  /* Конечный кадр */
+  to {
+    margin-left: 400px;
+    background-color: blue;
+  }
+}
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  animation-name: move;
+  animation-duration: 3s;
+  animation-timing-function: cubic-bezier(0.17, 1.79, 0.51, 0.14);
+  /* Генератор http://cubic-bezier.com/#.17,.67,.83,.67 */
+  animation-delay: 2s;
+  -webkit-animation-iteration-count: 1;
+  /* infinite */
+  -o-animation-iteration-count: 1;
+  animation-iteration-count: 1;
+  animation-fill-mode: forwards;
+}
