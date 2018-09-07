@@ -767,6 +767,9 @@ a.btn-cta {
   margin: 0 auto;
   margin-bottom: 60px;
 }
+.rellax{
+  margin-top: -120rem;
+}
 /* Extra small devices (phones, less than 768px) */
 @media (max-width: 767px) {
   .navbar-collapse {
@@ -851,9 +854,7 @@ a.btn-cta {
   }
 }
 
-.rellax{
-  margin-top: -100rem;
-}
+
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) {
   .feature-nav {
