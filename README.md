@@ -10,6 +10,7 @@
 [Урок 18 часть2](https://antoniosantro.github.io/lessen%2018/tab/)  
 [Урок 19](https://antoniosantro.github.io/lessen%2018/tab/)  
 [Урок 20](https://antoniosantro.github.io/lessen%2020/)  
+[Урок 21](https://antoniosantro.github.io/lessen%2021/)  
 [Практика 1](https://antoniosantro.github.io/praktik%201/src/)  
 [Практика 2](https://antoniosantro.github.io/praktik%202/src/)  
 [Практика 3](https://antoniosantro.github.io/praktik%203/src/)  
