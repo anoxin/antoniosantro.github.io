@@ -1,0 +1,101 @@
+.contakt {
+  position: absolute;
+  background-color: #c60b0b;
+  margin-top: -43rem;
+  height: 43rem;
+  color: #fff;
+  text-align: center;
+}
+.contakt h3,
+.contakt p,
+.contakt a {
+  font-family: sans-serif;
+  font-size: 1.8rem;
+  font-weight: 400;
+  text-decoration: none;
+  color: #fff;
+  padding: 2rem 7rem;
+}
+.contakt h3 {
+  font-size: 3rem;
+  padding: 1rem 12rem;
+}
+.text-ul {
+  margin-left: -3rem;
+  margin-top: -24.5rem;
+  font-size: 1.8rem;
+  font-weight: 900;
+  color: #1b1a1b;
+}
+.niz-zwei {
+  margin-top: 2rem;
+  text-align: center;
+  color: #666666;
+  font-size: 1.4rem;
+  font-weight: 400;
+}
+.niz-drei {
+  margin-top: 1rem;
+}
+.niz-drei-nomer {
+  color: #000000;
+  font-size: 2.2rem;
+  font-weight: 600;
+  text-align: right;
+}
+.niz-drei-schtrase {
+  color: #000000;
+  font-size: 1.4rem;
+  font-weight: 400;
+  text-align: right;
+}
+.niz img {
+  display: inline-block;
+  margin-top: -4rem;
+}
+.niz p {
+  display: inline-block;
+  text-align: left;
+  margin-top: 1rem;
+  margin-left: 1rem;
+}
+@media (max-width: 1199px) {
+  .text-ul {
+    margin-left: 0rem;
+  }
+}
+@media (max-width: 991px) {
+  .text-ul {
+    margin-left: 4rem;
+  }
+}
+@media (max-width: 767px) {
+  .map {
+    position: relative;
+    top: 43rem;
+    text-align: center;
+  }
+  .contakt {
+    position: relative;
+    margin-top: -45rem;
+    display: block;
+  }
+  .contakt p,
+  .contakt h3 {
+    padding: 2rem 0;
+    text-align: center;
+  }
+  .niz-drei-nomer {
+    margin-top: 2rem;
+  }
+  .niz-zwei {
+    margin-top: -11rem;
+  }
+  .niz-content {
+    display: block;
+    margin-top: 27rem;
+  }
+  .text-ul {
+    margin-top: 14rem;
+  }
+}
