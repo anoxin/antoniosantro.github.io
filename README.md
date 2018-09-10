@@ -17,4 +17,7 @@
 [Практика 4](https://antoniosantro.github.io/praktik%204/src/)  
 [Практика 5](https://antoniosantro.github.io/praktik%205/src/)  
 [Практика 6](https://antoniosantro.github.io/praktik%206/src/)  
-[Практика 7](https://antoniosantro.github.io/praktik%207/src/) 
+[Практика 7](https://antoniosantro.github.io/praktik%207/src/)  
+[Практика 8](https://antoniosantro.github.io/praktik%208/src/)  
+[Практика 9](https://antoniosantro.github.io/praktik%209/src/)  
+[Практика 10](https://antoniosantro.github.io/praktik%2010/src/)  
