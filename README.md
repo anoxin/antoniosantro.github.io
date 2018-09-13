@@ -1,5 +1,15 @@
 
-# Анохин Антон
+# Анохин Антон   
+[Урок 2](https://antoniosantro.github.io/lessen%2014/)  
+[Урок 3](https://antoniosantro.github.io/lessen%2015/)  
+[Урок 4](https://antoniosantro.github.io/lessen%2016/)  
+[Урок 5](https://antoniosantro.github.io/lessen%2017/)  
+[Урок 6](https://antoniosantro.github.io/first/)  
+[Урок 7](https://antoniosantro.github.io/lessen%2013/src/)  
+[Урок 8](https://antoniosantro.github.io/lessen%2014/)  
+[Урок 9](https://antoniosantro.github.io/lessen%2015/)  
+[Урок 10](https://antoniosantro.github.io/lessen%2016/)  
+[Урок 11](https://antoniosantro.github.io/lessen%2017/)  
 [Урок 12](https://antoniosantro.github.io/first/)  
 [Урок 13](https://antoniosantro.github.io/lessen%2013/src/)  
 [Урок 14](https://antoniosantro.github.io/lessen%2014/)  
@@ -20,4 +30,6 @@
 [Практика 7](https://antoniosantro.github.io/praktik%207/src/)  
 [Практика 8](https://antoniosantro.github.io/praktik%208/src/)  
 [Практика 9](https://antoniosantro.github.io/praktik%209/src/)  
-[Практика 10](https://antoniosantro.github.io/praktik%2010/src/)  
+[Практика 10](https://antoniosantro.github.io/praktik%2010/src/)   
+[Практика 11](https://antoniosantro.github.io/praktik%2011/src/)  
+[Практика 12](https://antoniosantro.github.io/praktik%2012/src/)  
