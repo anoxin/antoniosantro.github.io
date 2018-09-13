@@ -7,7 +7,7 @@
 [Урок 6 часть1](https://antoniosantro.github.io/lessen%206/block/)  
 [Урок 6 часть2](https://antoniosantro.github.io/lessen%206/header/)  
 [Урок 7](https://antoniosantro.github.io/lessen%207/src/)  
-[Урок 8](https://github.com/antoniosantro/antoniosantro.github.io/tree/master/lessen%208)  
+[Урок 8](https://antoniosantro.github.io/lessen%208/)  
 [Урок 9](https://antoniosantro.github.io/lessen%209/src/)  
 [Урок 10](https://github.com/antoniosantro/antoniosantro.github.io/tree/master/lessen%2010)  
 [Урок 11](https://antoniosantro.github.io/lessen%2011/)  
