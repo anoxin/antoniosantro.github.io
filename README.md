@@ -2,8 +2,8 @@
 # Анохин Антон   
 [Урок 2](https://github.com/antoniosantro/antoniosantro.github.io/tree/master/lessen%202)  
 [Урок 3](https://github.com/antoniosantro/antoniosantro.github.io/tree/master/lessen%203)  
-[Урок 4](https://github.com/antoniosantro/antoniosantro.github.io/tree/master/lessen%204)  
-[Урок 5](https://github.com/antoniosantro/antoniosantro.github.io/tree/master/lessen%205)  
+[Урок 4](https://antoniosantro.github.io/lessen%204/)  
+[Урок 5](https://antoniosantro.github.io/lessen%205/)  
 [Урок 6](https://github.com/antoniosantro/antoniosantro.github.io/tree/master/lessen%206)  
 [Урок 7](https://antoniosantro.github.io/lessen%207/src/)  
 [Урок 8](https://github.com/antoniosantro/antoniosantro.github.io/tree/master/lessen%208)  
