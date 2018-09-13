@@ -1,0 +1,20 @@
+.container {
+  position: fixed;
+  height: 10rem;
+  width: 100%;
+  background-color: #000;
+}
+.header {
+  position: absolute;
+  right: 8rem;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.header-poziz {
+  display: inline-block;
+  margin: 0 1.7rem;
+  color: #fff;
+}
+.main-text {
+  padding: 12rem 4rem;
+}
